@@ -6,13 +6,11 @@ Chyby (není crack nebo alespoň mini-image)
 
 -NEpoužití přibaleného ```Runaway2.exe``` je možné, ale v tom případě bude chybět veškerý překlad kromě rozhovorů, ale hlavně budou poškozená některá písmena kvůli diakritice
 
--zprovoznit hru s polským EXE crackem (zbytky PL překladu nejsou šifrované, takže se dají snadno přepsat, jak na tom budou fonty je otázka) by mělo být nejjednodušší = neobsahuje ```Tages``` ochranu, ale přesto chce vložit CD/DVD které nevím kde sehnat (možná chomikuj?). Tento check se zdá být stejný jako u Runaway1, takže vytvoření mini-image by neměl být žádný problém
-<br/>
-https://github.com/hornster02/Runaway-2001-CZ
+PL crack
 <br/>
 https://github.com/hornster02/Runaway_2-2006-CZ/raw/main/exe-pl.rar
 
-DRM free EXE s volně přístupnou částí CZ překladu
+DRM free demo CZ EXE
 <br/>
 https://github.com/hornster02/Runaway_2-2006-CZ/raw/main/exe-cz-demo.rar
 
