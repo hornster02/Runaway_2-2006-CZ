@@ -5,15 +5,18 @@ Velikost 11+23MB https://drive.google.com/drive/folders/1fYQITmbHeBdGPAdEo9j23fe
 Postup
 <br/>
 -připojit "Runaway 2_TAGES.mds" na virtuální mechaniku (mé nastavení - 1x DVD mechanika typu SCSI, písmeno Z - DAEMON Tools Lite)
-<br/>
+
 -aplikovat CZ patch
 <br/>
 -nakopírovat obsah složky ```_CZ-PART2``` do hry
 <br/>
 -nainstalovat DRM ```TagesSetup_x64.exe``` (```atksgt.sys```/```lirsgt.sys```) - vyzkoušeno ve Win7. http://www.tagesprotection.com/main.htm
-<br/>
--spustit hru přes Runaway2.exe
 
+-spustit hru přes Runaway2.exe
+<br/>
+<br/>
+<br/>
+<br/>
 Chyby
 <br/>
 -nízké FPS (už úvodní videa mohou běhat okolo 0-1FPS = hledej padající sníh), nebo černá obrazovka+zamrznutí (hlavně v menu) = může pomoci dgVoodoo2 (dgVoodoo Virtual SVGA Card - bez zbytečné 3D akcelerace)
