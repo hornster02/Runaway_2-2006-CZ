@@ -1,6 +1,8 @@
 STEAM (2025-08)
 <br/>
 Velikost 11+23MB https://drive.google.com/drive/folders/1fYQITmbHeBdGPAdEo9j23femb5LiAdDr
+<br/>
+(RAR heslo 1)
 
 Postup
 <br/>
