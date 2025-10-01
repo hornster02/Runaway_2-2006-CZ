@@ -6,7 +6,7 @@ Velikost 11+23MB https://drive.google.com/drive/folders/1fYQITmbHeBdGPAdEo9j23fe
 
 Postup
 <br/>
--připojit "Runaway 2_TAGES.mds" na virtuální mechaniku (mé nastavení - 1x DVD mechanika typu SCSI, písmeno Z - DAEMON Tools Lite)
+-připojit "Runaway 2_TAGES.mds" na virtuální mechaniku (Alcohol 52%, DAEMON Tools Lite)
 
 -aplikovat CZ patch
 <br/>
